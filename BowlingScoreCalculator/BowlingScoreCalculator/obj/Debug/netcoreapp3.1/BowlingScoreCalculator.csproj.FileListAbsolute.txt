@@ -1,0 +1,13 @@
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.1\BowlingScoreCalculator.exe
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.1\BowlingScoreCalculator.deps.json
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.1\BowlingScoreCalculator.runtimeconfig.json
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.1\BowlingScoreCalculator.runtimeconfig.dev.json
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.1\BowlingScoreCalculator.dll
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.1\BowlingScoreCalculator.pdb
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.1\BowlingScoreCalculator.csprojAssemblyReference.cache
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.1\BowlingScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.1\BowlingScoreCalculator.AssemblyInfoInputs.cache
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.1\BowlingScoreCalculator.AssemblyInfo.cs
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.1\BowlingScoreCalculator.dll
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.1\BowlingScoreCalculator.pdb
+C:\Workspace\_CodingDojo\codingdojo_bowling\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.1\BowlingScoreCalculator.genruntimeconfig.cache

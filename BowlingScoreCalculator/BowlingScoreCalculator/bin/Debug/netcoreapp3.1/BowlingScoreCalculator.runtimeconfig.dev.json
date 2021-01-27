@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\csaba.peller\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\csaba.peller\\.nuget\\packages"
+    ]
+  }
+}
